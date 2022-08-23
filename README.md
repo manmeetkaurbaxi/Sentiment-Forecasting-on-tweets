@@ -28,5 +28,5 @@ If you use any of the provided material for your work, please cite us as follows
 
 ## Contact information
 If you have any questions or suggestions, do not hesitate to email us. 😊
-[Aditya Singhal](mailto:asinghal@lakeheadu.ca)
-[Manmeet Kaur Baxi](mailto:mbaxi@lakeheadu.ca)
+- [Aditya Singhal](mailto:asinghal@lakeheadu.ca)
+- [Manmeet Kaur Baxi](mailto:mbaxi@lakeheadu.ca)
