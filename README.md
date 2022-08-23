@@ -16,7 +16,7 @@ If you use any of the provided material for your work, please cite us as follows
 ```
 @article{singhal2022synergy,
   title={Synergy Between Public and Private Health Care Organizations During COVID-19 on Twitter: Sentiment and Engagement Analysis Using Forecasting Models},
-  author={Singhal, Aditya and Baxi, Manmeet Kaur and Mago, Vijay and others},
+  author={Singhal, Aditya and Baxi, Manmeet Kaur and Mago, Vijay},
   journal={JMIR Medical Informatics},
   volume={10},
   number={8},
