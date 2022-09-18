@@ -30,3 +30,5 @@ If you use any of the provided material for your work, please cite us as follows
 If you have any questions or suggestions, do not hesitate to email us. 😊
 - [Aditya Singhal](mailto:asinghal@lakeheadu.ca)
 - [Manmeet Kaur Baxi](mailto:mbaxi@lakeheadu.ca)
+
+**Do ⭐ the repository, if it helped you in anyway.**
